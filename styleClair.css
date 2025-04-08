@@ -1,0 +1,282 @@
+body{
+	background-color: #FEFFF1;
+	margin: 0px;
+	font-family: 'Lucida Console', monospace;
+	font-size: 17px;
+	line-height: 1.3;
+	color: black;
+	padding-top: 50px;
+
+}
+section{
+	max-width: 1400px;
+	padding-inline: 20px;
+	padding-block: 10px;
+	margin-left:20.30%;
+	margin-right:20%;
+	display:block;
+	align-items:center;
+	border: solid;
+	text-align:center;
+	font-size:15px;
+	color: black;
+
+}
+h1{
+	font-size: 40px;
+	display: block;
+	max-width: 1400px;
+	margin: auto;
+	padding-inline: 20px;
+	padding-block: 10px;
+	margin-block: 40px;
+	margin-left:20.30%;
+	margin-right:20%;
+	border: solid;
+	color: black;
+}
+h2{
+	font-size: 25px;
+	text-align: left;
+	color: black;
+}
+.logo{
+	width:20%;
+}
+footer > div{
+	display: flex;
+	justify-content: space-between;
+	font-size: 18px;
+	width: 100%;
+}
+table {
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	border-collapse: collapse;
+	border: 2px solid #bbb;
+	width: 80%;https://dkichenamourthy.alwaysdata.net/index.php?region=76
+	background-color: #f0f8ff;
+	color: black;
+	box-shadow: 0 4px 6px rgba(255, 255, 255, 0.3);
+	border-radius: 8px;
+	margin-bottom:10pt;
+}
+table th, table td {
+	padding: 10px;
+	font-size: 16px;
+}
+table th {
+	background-color: #99cfff;
+	color: black;
+	font-weight: bold;
+	border: 1px solid #aaa;
+}
+table tr{
+	background-color: #b3dbff;
+}
+table td {
+	border-left: 1px solid #aaa;
+	border-top: 1px solid #aaa;
+}
+table td:first-child {
+	border-left: none;
+}
+table tr:last-child td {
+	border-bottom: none;
+}
+table caption {
+	font-size: 20px;
+	font-weight: bold;
+	margin-bottom: 10px;
+	color: black;
+}
+ul{
+	list-style-type: none;
+}
+.logo{
+	position: relative;
+	width : 100px;
+	margin-inline: 20px;
+	margin-block: 12px;
+	display: inline-block;
+}
+header nav {
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	padding: 10px 0;
+	z-index: 1000;
+	background-color:#FAF5DD;
+}
+header nav ul {
+
+	padding: 0;
+	margin: 0;
+	list-style-type: none;
+}
+header nav li {
+	margin: 0 10px;
+}
+header nav li a {
+	display: block;
+	padding: 15px;
+	color: black;
+	text-decoration: none;
+	border-radius: 5px;
+}
+header nav li a:hover {
+	background-color: #bbb;
+}
+
+main nav {
+	position: fixed; 
+	top: 0;
+	left: 0;
+	width: 200px;  
+	padding-top: 150px;
+	display: flex;
+	flex-direction: column;  
+	justify-content: flex-start;
+}
+main nav ul {
+	padding: 0;
+	margin: 0;
+	list-style-type: none;
+}
+main nav li {
+	margin-bottom: 10px; 
+}
+main nav li a {
+	display: block;
+	padding: 15px;
+	color: black;
+	text-decoration: none;
+	border-radius: 5px;
+}
+main nav li a:hover {
+	background-color: #bbb; 
+}
+span{
+	display: block;
+	text-align: justify;
+	color: black;
+}
+p{
+	display: block;
+	text-align: justify;
+	color: black;
+}
+main a:link, a:visited, a:active {
+    color: black;
+    text-decoration: underline;
+}
+.flag {
+	list-style-type: none; 
+	display: flex; 
+	justify-content: center;
+	align-items: center; 
+	gap: 20px;
+	margin: 0; 
+	padding: 0; 
+}
+
+.flag li {
+	display: inline-block;
+}
+footer{
+
+	background-color:#FAF5DD;
+	height:50px;
+}body{
+	background-color: #FEFFF1;
+	margin: 0px;
+	font-family: 'Lucida Console', monospace;
+	font-size: 17px;
+	line-height: 1.3;
+	color: black;
+	padding-top: 50px;
+
+}
+section{
+	max-width: 1400px;
+	padding-inline: 20px;
+	padding-block: 10px;
+	margin-left:20.30%;
+	margin-right:20%;
+	display:block;
+	align-items:center;
+	border: solid;
+	text-align:center;
+	font-size:15px;
+	color: black;
+
+}
+h1{
+	font-size: 40px;
+	display: block;
+	max-width: 1400px;
+	margin: auto;
+	padding-inline: 20px;
+	padding-block: 10px;
+	margin-block: 40px;
+	margin-left:20.30%;
+	margin-right:20%;
+	border: solid;
+	color: black;
+}
+h2{
+	font-size: 25px;
+	text-align: left;
+	color: black;
+}
+.logo{
+	width:20%;
+}
+footer > div{
+	display: flex;
+	justify-content: space-between;
+	font-size: 18px;
+	width: 100%;
+}
+table {
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	border-collapse: collapse;
+	border: 2px solid #bbb;
+	width: 80%;https://dkichenamourthy.alwaysdata.net/index.php?region=76
+	background-color: #f0f8ff;
+	color: black;
+	box-shadow: 0 4px 6px rgba(255, 255, 255, 0.3);
+	border-radius: 8px;
+	margin-bottom:10pt;
+}
+table th, table td {
+	padding: 10px;
+	font-size: 16px;
+}
+table th {
+	background-color: #99cfff;
+	color: black;
+	font-weight: bold;
+	border: 1px solid #aaa;
+}
+table tr{
+	background-color: #b3dbff;
+}
+table td {
+	border-left: 1px solid #aaa;
+	border-top: 1px solid #aaa;
+}
+table td:first-child {
+	border-left: none;
+}
+table tr:last-child td {
+	border-bottom: none;
+}
+table caption {
+	font-size: 20px;
+	font-weight: bold;
+	margin-b
